@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ADEGA-GATEWAY-SERVER
+  cloud:
+    config:
+      uri: http://localhost:8000

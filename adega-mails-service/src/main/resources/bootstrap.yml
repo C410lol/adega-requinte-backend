@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ADEGA-MAILS-SERVICE
+  cloud:
+    config:
+      uri: http://localhost:8000

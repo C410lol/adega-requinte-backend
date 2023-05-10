@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adega-config-server" />
+        <module name="adega-orders-service" />
+        <module name="adega-products-service" />
+        <module name="adega-users-service" />
+        <module name="adega-mails-service" />
+        <module name="adega-eureka-server" />
+        <module name="adega-gateway-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="adega-config-server" options="-parameters" />
+      <module name="adega-eureka-server" options="-parameters" />
+      <module name="adega-gateway-server" options="-parameters" />
+      <module name="adega-mails-service" options="-parameters" />
+      <module name="adega-orders-service" options="-parameters" />
+      <module name="adega-products-service" options="-parameters" />
+      <module name="adega-users-service" options="-parameters" />
+    </option>
+  </component>
+</project>
