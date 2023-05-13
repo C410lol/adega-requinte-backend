@@ -17,5 +17,6 @@ This repository represents a project for the Adega Requinte website. You can see
 - Hibernate
 
  OTHERS:
+- Apache Kafka
 - Git
 - Git Flow
