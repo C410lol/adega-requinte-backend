@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/C410lol/adega-config-files
+          uri: https://github.com/C410lol/adega-requinte-backend/tree/main/adega-config-files
         vault:
           authentication: TOKEN
           host: 127.0.0.1
