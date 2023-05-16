@@ -2,12 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/adega-config-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/adega-eureka-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/adega-gateway-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/adega-mails-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/adega-orders-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/adega-products-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/adega-users-service" vcs="Git" />
   </component>
 </project>
